@@ -19,6 +19,7 @@ This is a simple Snake and Ladder game implemented in Python. The game simulates
 
 ## Sample Gameplay
 
+https://github.com/scienmanas/Snake-and-Ladder/assets/99756067/5f6cd04a-a977-41ec-a88c-302e688cf2d0
 
 
 ## Contributions
